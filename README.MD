@@ -1,0 +1,1 @@
+This repository contains a simple index.html file with 'Hello World' message.
